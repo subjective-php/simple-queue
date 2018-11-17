@@ -2,8 +2,6 @@
 
 namespace SubjectivePHP\SimpleQueue;
 
-use SubjectivePHP\SimpleQueue\Exception;
-
 interface QueueInterface
 {
     /**
