@@ -4,5 +4,5 @@
     <file>tests</file>
     <arg name="colors" />
     <arg value="p" />
-    <rule ref="PSR2" />
+    <rule ref="vendor/chadicus/coding-standard/Chadicus" />
 </ruleset>
