@@ -2,7 +2,7 @@
 
 namespace SubjectivePHP\SimpleQueue\Exception;
 
-use \Throwable
+use Throwable;
 
 interface QueueException extends Throwable
 {
