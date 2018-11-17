@@ -2,6 +2,6 @@
 
 namespace SubjectivePHP\SimpleQueue\Exception;
 
-interface DeleteException extends \Throwable
+interface DeleteException extends QueueException
 {
 }
