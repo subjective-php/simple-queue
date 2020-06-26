@@ -2,6 +2,8 @@
 
 namespace SubjectivePHP\SimpleQueue\Exception;
 
-interface SendException extends QueueException
+use Throwable;
+
+interface QueueException extends Throwable
 {
 }
